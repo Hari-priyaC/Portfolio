@@ -1,0 +1,3 @@
+Haripriya C
+Python Backend Developer
+Django, FastAPI, REST APIs, PostgreSQL, Docker, Redis, Kafka
